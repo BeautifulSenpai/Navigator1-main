@@ -1,4 +1,5 @@
-# ver 1.0
+***Patch Notes***
+## ver 1.0
 ### Updates
 * Added video player
 * Added description and rating
